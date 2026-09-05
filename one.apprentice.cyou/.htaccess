@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/rdsmahat/public_html/one.apprentice.cyou"
+PassengerBaseURI "/"
+PassengerNodejs "/home/rdsmahat/nodevenv/public_html/one.apprentice.cyou/22/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
